@@ -163,3 +163,9 @@ MediMentor strictly complies with the **Japanese Medical Practitioner Act (医�
 ## 📄 License
 
 This project was created for a hackathon. All rights reserved.
+
+## 🙏 Acknowledgments
+
+- Built during [Abacus AI Hackathon 2025](https://abacus.ai)
+- AI powered by Claude (Anthropic) and OpenAI via Abacus AI
+- Deployed on Abacus AI Platform
