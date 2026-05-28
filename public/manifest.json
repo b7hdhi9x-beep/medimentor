@@ -1,0 +1,18 @@
+{
+  "name": "MediMentor - 健康相談AIアシスタント",
+  "short_name": "MediMentor",
+  "description": "健康サポート妖精ピピがあなたの健康の悩みに対応します",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f8fafc",
+  "theme_color": "#16a34a",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
