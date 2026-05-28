@@ -169,3 +169,10 @@ This project was created for a hackathon. All rights reserved.
 - Built during [Abacus AI Hackathon 2025](https://abacus.ai)
 - AI powered by Claude (Anthropic) and OpenAI via Abacus AI
 - Deployed on Abacus AI Platform
+
+## 🙏 Acknowledgments
+
+- Built during [Abacus AI Hackathon 2025](https://abacus.ai)
+- AI powered by Claude (Anthropic) and OpenAI via Abacus AI
+- Deployed on Abacus AI Platform
+
