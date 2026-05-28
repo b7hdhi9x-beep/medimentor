@@ -34,6 +34,15 @@ MediMentor is an AI-powered health information chatbot featuring **Pipi (ピピ)
 - **5 Languages** — Japanese, English, Spanish, Chinese, Korean
 - **Cross-Language Translation** — Send messages in any language; get responses + translation to your UI language
 - **On-Demand Translation** — Translate any past message with one click
+- 
+## 🚀 Getting Started
+
+1. Clone the repository: `git clone https://github.com/b7hdhi9x-beep/medimentor.git`
+2. Install dependencies: `yarn install`
+3. Set up environment variables (copy `.env.example` to `.env`)
+4. Run development server: `yarn dev`
+5. Open http://localhost:3000
+
 
 ### 🎙️ Voice Input
 - **Web Speech API** — Speak your symptoms instead of typing
@@ -136,7 +145,8 @@ nextjs_space/
 | Urology | 泌尿器科 |
 | Gynecology | 婦人科 |
 | Cardiology | 循環器科 |
-| Neurology | 神経内科 |
+| Neurology | 神経内科 |treatments
+- ❌ No prescriptions — never recommends specific medication
 | Surgery | 外科 |
 | Dentistry | 歯科 |
 
@@ -145,8 +155,7 @@ nextjs_space/
 MediMentor strictly complies with the **Japanese Medical Practitioner Act (医師法第17条)** and **Pharmaceutical and Medical Device Act (薬機法)**:
 
 - ❌ No diagnosis — never states "You have X disease"
-- ❌ No treatment instructions — never prescribes specific treatments
-- ❌ No prescriptions — never recommends specific medications
+- ❌ No treatment instructions — never prescribes specific s
 - ❌ No definitive referrals — uses "generally, people consult..." phrasing
 - ✅ Information only — provides general health knowledge with cited sources
 - ✅ Position disclosure — every response reminds users Pipi is not a doctor
